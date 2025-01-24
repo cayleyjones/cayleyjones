@@ -68,7 +68,7 @@
     <h3>About Me</h3>
     <p>A passionate writer with a knack for crafting compelling narratives and clear, concise content. Expertise in UX writing, conversation design, and community management. Based in Barcelona.</p>
 
-    <img src="IMG_5638 (2).png">
+    <img src="IMG_5638 (2).png" alt="Books"> 
   </section>
 
   <section id="experience">
