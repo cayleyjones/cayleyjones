@@ -1,29 +1,41 @@
 ## Hi there 👋
 
-<!DOCTYPE html>
 <html>
 <head>
   <title>Cayley Jones - Writer & Conversation Designer</title>
   <style>
     /* Add your CSS styles here */
     body {
-      font-family: sans-serif;
+      font-family: 'Arial', sans-serif; /* More exciting font */
       margin: 0;
       padding: 20px;
+      background-color: #F8E9E9; /* Pale pink background */
+      background-image: url('ocean.jpg'); /* Ocean image */
+      background-size: cover;
+      color: #333; /* Dark text for contrast */
     }
 
     header {
-      background-color: #f0f0f5;
-      padding: 20px;
       text-align: center;
+      padding: 20px;
+      background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+      border-radius: 10px;
+      margin-bottom: 20px;
     }
 
     section {
-      margin-bottom: 30px;
+      background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+      border-radius: 10px;
+      padding: 20px;
+      margin-bottom: 20px;
     }
 
     h1, h2, h3 {
       color: #333;
+    }
+
+    h1 {
+      font-family: 'Georgia', serif; /* More exciting font */
     }
 
     a {
@@ -35,6 +47,16 @@
       list-style: disc;
       padding-left: 40px;
     }
+
+    /* Add styles for images */
+    img {
+      max-width: 300px;
+      height: auto;
+      display: block; /* Ensures images take up their own line */
+      margin: 20px auto; /* Centers the images */
+      border-radius: 10px; /* Adds rounded corners to images */
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Adds a subtle shadow */
+    }
   </style>
 </head>
 <body>
@@ -45,7 +67,9 @@
 
   <section id="about">
     <h3>About Me</h3>
-    <p>A passionate writer with a knack for crafting compelling narratives and clear, concise content. Expertise in UX writing, conversation design, and community management. Based in Barcelona.</p> 
+    <p>A passionate writer with a knack for crafting compelling narratives and clear, concise content. Expertise in UX writing, conversation design, and community management. Based in Barcelona.</p>
+
+    <img src="books.jpg" alt="Books"> 
   </section>
 
   <section id="experience">
