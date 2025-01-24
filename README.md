@@ -9,8 +9,7 @@
       font-family: 'Arial', sans-serif; /* More exciting font */
       margin: 0;
       padding: 20px;
-      background-color: #F8E9E9; /* Pale pink background */
-      background-image: url('ocean.jpg'); /* Ocean image */
+      background-image: url('pexels-nicole-avagliano-1132392-2236713.jpg');
       background-size: cover;
       color: #333; /* Dark text for contrast */
     }
