@@ -1,16 +1,99 @@
 ## Hi there 👋
 
-<!--
-**cayleyjones/cayleyjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cayley Jones - Writer & Conversation Designer</title>
+  <style>
+    /* Add your CSS styles here */
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
 
-Here are some ideas to get you started:
+    header {
+      background-color: #f0f0f5;
+      padding: 20px;
+      text-align: center;
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    section {
+      margin-bottom: 30px;
+    }
+
+    h1, h2, h3 {
+      color: #333;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    ul {
+      list-style: disc;
+      padding-left: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Cayley Jones</h1>
+    <h2>Writer & Conversation Designer</h2>
+  </header>
+
+  <section id="about">
+    <h3>About Me</h3>
+    <p>A passionate writer with a knack for crafting compelling narratives and clear, concise content. Expertise in UX writing, conversation design, and community management. Based in Barcelona.</p> 
+  </section>
+
+  <section id="experience">
+    <h3>Experience</h3>
+    <h4>UX Writer at Helm (Oct 2024 - Present)</h4>
+    <ul>
+      <li>Craft UX writing strategies.</li>
+      <li>Create clear, impactful copy for digital interfaces.</li>
+      <li>Collaborate with cross-functional teams.</li>
+      <li>Data-driven content optimization.</li>
+      <li>Contribute to design systems.</li>
+    </ul>
+
+    <h4>Community Manager at Helm (Mar 2023 - Sept 2024)</h4>
+    <ul>
+      <li>Conversation design for user journeys.</li>
+      <li>Social media content creation & strategy.</li>
+      <li>Community management and engagement.</li>
+    </ul>
+
+    <h4>Freelance Conversation Designer</h4>
+    <ul>
+      <li>MoneyUp Chat by Capitec</li>
+      <li>Alfred - Eskom's 24/7 Service Agent</li>
+    </ul>
+  </section>
+
+  <section id="work">
+    <h3>Published Work</h3>
+    <h4>BizCommunity</h4>
+    <ul>
+      <li><a href="https://www.bizcommunity.com/AI-My-unexpected-ally">AI, My Unexpected Ally</a></li>
+      <li><a href="https://www.bizcommunity.com/Is-ChatGPT-a-better-writer-than-me">Is ChatGPT a better writer than me?</a></li>
+    </ul>
+
+    <h4>Helm Insights</h4>
+    <ul>
+      <li><a href="https://www.helminsights.com/Is-ChatGPT-a-better-writer-than-me">Is ChatGPT a better writer than me?</a></li> 
+    </ul>
+  </section>
+
+  <section id="creative">
+    <h3>Creative Writing</h3>
+    <p>Find my poetry on Instagram: <a href="https://www.instagram.com/anothercayley">@anothercayley</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Cayley Jones</p> 
+  </footer>
+</body>
+</html>
